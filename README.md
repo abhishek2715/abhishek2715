@@ -1,5 +1,6 @@
 ### Hi there 👋
-Constantly learning and evolving myself in the Data Science and Machine Learning field. I like to play games, therefore chose to switch to the technical field all the way from a commerce background. <!--
+Constantly learning and evolving myself in the Data Science and Machine Learning field. I like to play games, therefore chose to switch to the technical field all the way from a commerce background. 
+<!--
 **abhishek2715/abhishek2715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
