@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Graduated from the University of Delhi, studied Data Science and Machine Learning at Jovian. I have a keen interest in the field of the data industry, therefore chose to switch to the technical field all the way from a commerce background. I have explored different domains to be independent during college such as Python, HR, and Content Writing.
 <!--
 **abhishek2715/abhishek2715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
