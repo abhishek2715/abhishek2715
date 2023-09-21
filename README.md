@@ -12,7 +12,7 @@ Constantly learning and evolving myself in the Data Science and Machine Learning
 
 ## EDUCATION
 
-### Data Science Bootcamp, Jovian (Oct 2022 - Ongoing)
+### Data Science Bootcamp, Jovian (Oct 2022 - Jul 2023)
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
 
