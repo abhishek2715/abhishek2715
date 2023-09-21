@@ -1,6 +1,15 @@
 ### Hi there 👋
 Constantly learning and evolving myself in the Data Science and Machine Learning field. I like to play games, therefore chose to switch to the technical field all the way from a commerce background. 
 
+- 🔭 I’m currently working on Transfer of Data through MQTT Protocol using Python and AWS
+- 🌱 I’m currently learning Machine Learning
+- 👯 I’m looking to collaborate on Machine Learning Projects
+- 🤔 I’m looking for help with opportunities
+- 💬 Ask me about SQL and Excel questions 
+- 📫 How to reach me: linkedin.com/abhishek-bhardwaj27a
+- 😄 Pronouns: Data Analyst
+- ⚡ Fun fact: I love playing games, have interest in unusual facts, and also into fitness and sports. 
+
 ## EDUCATION
 
 ### Data Science Bootcamp, Jovian (Oct 2022 - Ongoing)
@@ -43,6 +52,12 @@ Created some additional tables with Primary and Foreign Keys through Query.
 
 ## WORK EXPERIENCE
 
+### Data Analyst, Ganges Internationale Pvt Ltd (Jun 2023 - Present)
+Responsible for collection & management of data on the Google Sheets
+Using Python for cleaning the unstructured data of log files, also using MQTT Protocol to transfer data
+Creating FMS for automating the processes using advanced formulas like Vlookup, Pivot Table, etc.
+Improving the efficiency of Cleaner Robots setting the right targets after Data Analysis
+
 ### Content Writer, DigiStatement (Apr 2021-Apr 2023)
 Wrote over 1800 articles on Gaming topics like Updates, News, and other in-game guides, tricks, etc. 
 Did research on multiple news related to problems occurring in games to provide factual information
@@ -55,14 +70,5 @@ Handled Workforce by interviewing candidates for the role of Legal Research and 
 <!--
 **abhishek2715/abhishek2715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
