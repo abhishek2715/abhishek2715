@@ -28,44 +28,44 @@ Highlights: Secretary of a college club (Enactus), participated and organized mu
 ## PROJECTS (View all)
 
 ### Exploratory Data Analysis and Visualization of Companies Registered in India from 1857 to 2020 (View)
-Loaded, cleaned & added new columns to Kaggle data with more than 195,000 rows and 17 columns
-Created visualizations (bar, pie & boxplots, sunburst & heat maps etc.) using plotly & folium libraries
-Analyzed that Reliance Jio is tha largest company in the country in terms of capital
+* Loaded, cleaned & added new columns to Kaggle data with more than 195,000 rows and 17 columns
+* Created visualizations (bar, pie & boxplots, sunburst & heat maps etc.) using plotly & folium libraries
+* Analyzed that Reliance Jio is tha largest company in the country in terms of capital
 
 ### Web Scraping Project on a Game Blogging Website 
-Scraped the 100 recent blogs from the DigiStatement using useful BeautifulSoup and Requests libraries 
-Built functions like parse_blog() & write_csv() etc. to scrape title, author’s name, date, and link data 
-Stored data consisting of 100 rows x 4 columns into “Top_100_Blogs.csv” using Pandas
+* Scraped the 100 recent blogs from the DigiStatement using useful BeautifulSoup and Requests libraries 
+* Built functions like parse_blog() & write_csv() etc. to scrape title, author’s name, date, and link data 
+* Stored data consisting of 100 rows x 4 columns into “Top_100_Blogs.csv” using Pandas
 
 
 ### Tableau Dashboard on Bookshop Dataset
-Created dashboard with interactive charts such as Heat Map, Line Chart, Geological Map, etc.  
-Extracted valuable insights such as Top Rated Books, Monthly Sales of Each Book, etc.
-Added filter switches on visualizations to filter out authors or genre to watch insights of book genres
+* Created dashboard with interactive charts such as Heat Map, Line Chart, Geological Map, etc.  
+* Extracted valuable insights such as Top Rated Books, Monthly Sales of Each Book, etc.
+* Added filter switches on visualizations to filter out authors or genre to watch insights of book genres
 
 
 ### SQL Querying with Chinook Database 
-Loaded the Chinook Database & its ERD with libraries “urlretrieve” and “sqlalchemy ipython-sql”
-Explored Counting, Aggregations, and also joined multiple tables to extract valuable insights
-Created some additional tables with Primary and Foreign Keys through Query.
+* Loaded the Chinook Database & its ERD with libraries “urlretrieve” and “sqlalchemy ipython-sql”
+* Explored Counting, Aggregations, and also joined multiple tables to extract valuable insights
+* Created some additional tables with Primary and Foreign Keys through Query.
 
 
 ## WORK EXPERIENCE
 
 ### Data Analyst, Ganges Internationale Pvt Ltd (Jun 2023 - Present)
-Responsible for collection & management of data on the Google Sheets
-Using Python for cleaning the unstructured data of log files, also using MQTT Protocol to transfer data
-Creating FMS for automating the processes using advanced formulas like Vlookup, Pivot Table, etc.
-Improving the efficiency of Cleaner Robots setting the right targets after Data Analysis
+* Responsible for collection & management of data on the Google Sheets
+* Using Python for cleaning the unstructured data of log files, also using MQTT Protocol to transfer data
+* Creating FMS for automating the processes using advanced formulas like Vlookup, Pivot Table, etc.
+* Improving the efficiency of Cleaner Robots setting the right targets after Data Analysis
 
 ### Content Writer, DigiStatement (Apr 2021-Apr 2023)
-Wrote over 1800 articles on Gaming topics like Updates, News, and other in-game guides, tricks, etc. 
-Did research on multiple news related to problems occurring in games to provide factual information
-Did proofreading & SEO examination of content posts to rank up blogs higher on the Google Search 
+* Wrote over 1800 articles on Gaming topics like Updates, News, and other in-game guides, tricks, etc. 
+* Did research on multiple news related to problems occurring in games to provide factual information
+* Did proofreading & SEO examination of content posts to rank up blogs higher on the Google Search 
 
 ### Human Resource Manager Intern, Legalvise (Mar 2021 - Jun 2021)
-Responsible for managing Spreadsheet filled by the candidates for getting hired
-Handled Workforce by interviewing candidates for the role of Legal Research and Content Writing
+* Responsible for managing Spreadsheet filled by the candidates for getting hired
+* Handled Workforce by interviewing candidates for the role of Legal Research and Content Writing
 
 <!--
 **abhishek2715/abhishek2715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
